@@ -1,3 +1,3 @@
 # encrypt_zip
 
-The RSA algorithm encrypts files, has no practical use, is merely a performance test
+The RSA algorithm is a file encryption program that has no practical use and is merely a performance test
